@@ -1,6 +1,5 @@
-// To compile do g++ main.cpp -o hello
-#include <iostream>
-#include "card.cpp"
+#include<iostream>
+#include"Suite.h"
 
 int main(){
 
